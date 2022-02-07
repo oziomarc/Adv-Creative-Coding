@@ -15,8 +15,6 @@ const main = async () => {
     app.renderer.resize(window.innerWidth, window.innerHeight);
 
     const path = new PIXI.Graphics();
-    // path.x = 0;
-    // path.y = 0;
     path.lineStyle(1, 0xababab, 1)
 
     let radius = 1
