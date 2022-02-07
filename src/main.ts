@@ -1,4 +1,4 @@
-// Week 2 "Iterative Pattern": Fibonacci Circles by Ozioma Chukwukeme
+/* Week 2 "Iterative Pattern": Fibonacci Circles by Ozioma Chukwukeme */
 
 import * as PIXI from "pixi.js"
 
